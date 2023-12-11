@@ -17,5 +17,5 @@ def clear():
 	os.system('clear')
 os.system('clear')
 loading()
-luciverxploit(f'\n\x1b[1;97m[\x1b[1;92m➢\x1b[1;97m] Maaf Script Sedang Di Tutup Sementara \n\x1b[1;97m[\x1b[1;92m➢\x1b[1;97m]Karna Sodara yang Bernama Moch Asep XC\n\x1b[1;97m[\x1b[1;92m➢\x1b[1;97m]Yang Asli Hanya LuciverXploit Guys Terimakasih\n')
+luciverxploit(f'\n\x1b[1;97m[\x1b[1;92m➢\x1b[1;97m] Maaf Script Sedang Di Tutup Sementara \n\x1b[1;97m[\x1b[1;92m➢\x1b[1;97m] Karna Sodara yang Bernama Moch Asep XC Telah Mencuri Lisensi Saya Dan Tidak Bertanggung Jawab\n\x1b[1;97m[\x1b[1;92m➢\x1b[1;97m]Yang Asli Hanya LuciverXploit Guys Selain Itu Orang Tolol Terimakasih\n')
 time.sleep(3)
